@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DialogFlipTest</string>
+    <string name="user_name_placeholder">Please text your username</string>
+    <string name="password_placeholder">Please test your password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="auto_login">Auto Login</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="retrieve_password">Retrieve Password</string>
+    <string name="email_placeholder">Please text your email</string>
+    <string name="tip_forget_password">Please text your Email,we will send a link to your mail box.</string>
+</resources>
